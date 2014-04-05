@@ -1,6 +1,6 @@
 {
   "name": "recursive-cssmin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": [
     "cssmin",
     "recursive",
@@ -21,6 +21,6 @@
     "cssmin": "~0.4.1"
   },
   "bin": {
-    "recursive-uglifyjs": "./cli/cmd.js"
+    "recursive-cssmin": "./cli/cmd.js"
   }
 }
