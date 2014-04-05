@@ -1,0 +1,26 @@
+{
+  "name": "recursive-cssmin",
+  "version": "0.1.0",
+  "keywords": [
+    "cssmin",
+    "recursive",
+    "minify"
+  ],
+  "description": "Recursively traverses a directory and minifies all CSS files contained in the directory and its children.",
+  "author": "James Newell <james@digitaledgeit.com.au>",
+  "bugs": {
+    "url": "https://github.com/digitaledgeit/npm-recursive-uglifyjs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitaledgeit/npm-recursive-uglifyjs.git"
+  },
+  "dependencies": {
+    "promise": "~4.0.0",
+    "finder-on-steroids": "~0.1.0",
+    "cssmin": "~0.4.1"
+  },
+  "bin": {
+    "recursive-uglifyjs": "./cli/cmd.js"
+  }
+}
