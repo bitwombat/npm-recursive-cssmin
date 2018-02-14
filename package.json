@@ -18,7 +18,7 @@
   "dependencies": {
     "promise": "~4.0.0",
     "finder-on-steroids": "~0.1.0",
-    "cssmin": "~0.4.1"
+    "uglifycss": "~0.0.27"
   },
   "bin": {
     "recursive-cssmin": "./cli/cmd.js"
