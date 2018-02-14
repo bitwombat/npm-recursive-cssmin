@@ -1,6 +1,6 @@
 {
   "name": "recursive-cssmin",
-  "version": "0.1.2",
+  "version": "0.0.1",
   "keywords": [
     "cssmin",
     "recursive",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/digitaledgeit/npm-recursive-uglifyjs.git"
+    "url": "https://github.com/bitwombat/npm-recursive-uglifyjs.git"
   },
   "dependencies": {
     "promise": "~4.0.0",
