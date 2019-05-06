@@ -10,7 +10,7 @@ if (process.argv.length != 3) {
 recursiveCSSMin(process.argv[2]).then(function() {
 	console.log('done!');
 }, function() {
-	console.log('error!');
+  console.log('the underlying call to uglifycss had a problem');
 	process.exit(1);
 });
 
