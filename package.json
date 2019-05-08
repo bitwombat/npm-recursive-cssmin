@@ -1,6 +1,6 @@
 {
   "name": "recursive-cssmin",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "keywords": [
     "cssmin",
     "recursive",
@@ -16,7 +16,7 @@
     "url": "https://github.com/bitwombat/npm-recursive-uglifyjs.git"
   },
   "dependencies": {
-    "finder-on-steroids": "~0.1.0",
+    "finder-on-steroids": "~0.4",
     "progress": "^2.0.3",
     "uglifycss": "~0.0.27"
   },
