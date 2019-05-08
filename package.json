@@ -1,6 +1,6 @@
 {
   "name": "recursive-cssmin",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "keywords": [
     "cssmin",
     "recursive",
@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "finder-on-steroids": "~0.1.0",
+    "progress": "^2.0.3",
     "uglifycss": "~0.0.27"
   },
   "bin": {
